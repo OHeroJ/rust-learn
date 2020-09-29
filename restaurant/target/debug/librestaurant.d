@@ -1,0 +1,1 @@
+/Users/laijihua/Desktop/Dev/rust/learn/restaurant/target/debug/librestaurant.rlib: /Users/laijihua/Desktop/Dev/rust/learn/restaurant/src/front_of_house/hostring.rs /Users/laijihua/Desktop/Dev/rust/learn/restaurant/src/front_of_house.rs /Users/laijihua/Desktop/Dev/rust/learn/restaurant/src/lib.rs
